@@ -23,4 +23,4 @@ A simple frontend application (Angular 9) for posting and playing quizzes.
 
 ## License
 
-The content of this repository is licensed under a [MIT License](https://github.com/kylerlee/React-Weather-App/blob/master/LICENSE).
+The content of this repository is licensed under a [MIT License](https://github.com/kylerlee/Simple-Quiz-Frontend-App/blob/master/LICENSE).
