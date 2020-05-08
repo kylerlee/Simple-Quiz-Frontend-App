@@ -1,0 +1,7 @@
+<mat-card>
+    <mat-card-content>
+        <mat-list *ngFor="let q of quizzes">
+            <mat-list-item class="clickLink" [routerLink]="['/play-quiz', q.id]">{{q.title}}</mat-list-item>
+        </mat-list>
+    </mat-card-content>
+</mat-card>
