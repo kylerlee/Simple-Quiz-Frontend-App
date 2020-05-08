@@ -1,28 +1,26 @@
 # Simple-Quiz-Frontend-App
-A simple web application (Angular 9) for posting and playing quizzes.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+A simple frontend application (Angular 9) for posting and playing quizzes.
 
-## Development server
+## Setup process
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Setup Angular in the machine. Please refer to the [Angular Setup Guide](https://angular.io/guide/setup-local).
+2. Clone the project source code from [GitHub](https://github.com/kylerlee/Simple-Quiz-Frontend-App.git).
+3. Open command prompt and cd to the project directory _/Simple-Quiz-Frontend-App_.
+4. Run `npm install` to install the project dependencies.
 
-## Code scaffolding
+### `ng serve`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if we change any of the source files.
 
-## Build
+## App user guide
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+1. Register a new user and login.
+2. Create a new quiz.
+3. Add new questions into the selected quiz.
+4. Edit existing quizzes or questions.
+5. All quizzes could be displayed and played by the public.
 
-## Running unit tests
+## License
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+The content of this repository is licensed under a [MIT License](https://github.com/kylerlee/React-Weather-App/blob/master/LICENSE).
